@@ -22,7 +22,7 @@ h1 {
   font-size: 2em;
 }
 #form-content {
-  margin-top: 10%;
+  margin: 12% 0;
 }
 .form-item {
   width: 70%;
@@ -32,7 +32,7 @@ h1 {
   justify-content: center;
 }
 input[type="text"] {
-  height: 35px;
+  height: 45px;
   font-size: xx-large;
   width: 40%;
   color: #00fc5c;
@@ -42,6 +42,7 @@ input[type="text"] {
   margin: 0 25px;
 }
 input[type="text"]:focus {
+  height: 45px;
   color: #00fc5c;
   font-size: xx-large;
   background: transparent;
@@ -80,14 +81,14 @@ label {
     margin: 2.5% auto;
   }
   input[type="text"] {
-    height: 25px;
+    height: 35px;
     width: 80%;
-    font-size: xx-large;
+    font-size: 3em;
   }
   input[type="text"]:focus {
-    height: 25px;
+    height: 35px;
     width: 80%;
-    font-size: xx-large;
+    font-size: 3em;
   }
   #home {
     font-size: x-large;
