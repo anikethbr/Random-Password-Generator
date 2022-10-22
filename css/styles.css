@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 h1 {
-  background: -webkit-linear-gradient(#00fc5c, #414141);
+  background-color: #00fc5c;
   -webkit-background-clip: text;
   /* -webkit-text-stroke: 1px red; */
   -webkit-text-fill-color: transparent;
